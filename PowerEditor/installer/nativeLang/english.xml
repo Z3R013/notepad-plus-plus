@@ -4,6 +4,7 @@
         <Menu>
             <Main>
                 <!-- Main Menu Entries -->
+              
                 <Entries>
                     <Item menuId="file" name="&amp;File"/>
                     <Item menuId="edit" name="&amp;Edit"/>
